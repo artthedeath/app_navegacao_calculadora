@@ -1,6 +1,6 @@
 # app_navegacao_calculadora
 
-A new Flutter project.
+Aplicativo para treinar a utilização de mais de uma tela e a navegação entre elas.
 
 ## Getting Started
 
